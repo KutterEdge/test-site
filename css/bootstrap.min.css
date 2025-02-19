@@ -1387,7 +1387,7 @@ progress {
 
     .row-cols-lg-6>* {
         flex: 0 0 auto;
-        width: 16.66667%
+        width: 100%
     }
 
     .col-lg-auto {
